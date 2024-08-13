@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey there 👋,
+<!--I build front-end and back-end systems. -->
 
 <!--
 **cameriemazreku/CamerieMazreku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
