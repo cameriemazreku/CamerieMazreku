@@ -28,7 +28,7 @@ I'm a Software Engineer and Computer Science student at Columbia University, wit
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![Kernel Development](https://img.shields.io/badge/Framework-Kernel%20Development-informational?style=flat&color=2bbc8a)
+![Linux Kernel Development](https://img.shields.io/badge/Skill-Linux%20Kernel%20Development-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![Unix / Shell Scripting](https://img.shields.io/badge/Scripting-Unix%20%2F%20Shell%20Scripting-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 ![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
