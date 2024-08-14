@@ -28,7 +28,6 @@ I'm a Software Engineer and Computer Science student at Columbia University, wit
 **Tech Stack**: OpenAI API, Flask, JavaScript, HTML, CSS, AWS (potential deployment)
 
 ### **Learn Cash Flow in 10 Minutes - Full-Stack Developer | Team of 3**  
-*GitHub | View Project*
 
 - **Educated users on financial concepts** through an interactive website with modules, quizzes, and feedback, **enhancing user understanding and engagement**.
 - **Improved learning outcomes** by integrating dynamic quizzes and real-time feedback mechanisms.
@@ -43,18 +42,20 @@ I'm a Software Engineer and Computer Science student at Columbia University, wit
 - **Automated database installations and performance tests**, leading to a **30% reduction in manual setup time** with custom scripts.
 - **Analyzed memory management techniques**, focusing on Huge Pages utilization and compaction processes to inform future optimizations.
 - **Led a research team** to conduct performance tests and literature reviews, enhancing understanding of memory management policies.
+  
+### **The Evac - Software Engineer**  
+*Nov 2021 – June 2022 | New York City, NY*
 
+- **Increased user engagement by 200%** across the U.S. and Europe by integrating Coinbase and WalletConnect providers.
+- **Conceptualized and implemented an MVP for NFT Ticketing**, which attracted interest from VCs using MongoDB and the Ethereum Blockchain.
+  
 ### **Software Engineer Intern - VillageCare**  
 *May 2021 – Aug 2021 | New York City, NY*
 
 - **Improved client access to health insurance information** by developing an Android application for a health provider directory.
 - **Boosted application performance** by leveraging React-Redux and efficient callback functions.
 
-### **The Evac - Software Engineer Intern**  
-*Nov 2021 – June 2022 | New York City, NY*
 
-- **Increased user engagement by 200%** across the U.S. and Europe by integrating Coinbase and WalletConnect providers.
-- **Conceptualized and implemented an MVP for NFT Ticketing**, which attracted interest from VCs using MongoDB and the Ethereum Blockchain.
 
 ## 🛠 Technical Skills
 
