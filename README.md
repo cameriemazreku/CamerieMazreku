@@ -40,8 +40,8 @@ I'm a Software Engineer and Computer Science student at Columbia University, wit
 ![OpenAI API](https://img.shields.io/badge/API-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
 
 ![Google Cloud Platform](https://img.shields.io/badge/Cloud-Google%20Cloud%20Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
-![Git](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![Git](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
 
