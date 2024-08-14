@@ -18,7 +18,26 @@ Here are some ideas to get you started:
 
 I'm a Software Engineer and Computer Science student at Columbia University, with a passion for building scalable, innovative solutions that solve real-world problems. I have a passion for tackling challenging tasks, leading projects, and collaborating with talented teams to push the boundaries of what's possible in technology.
 
-## 🚀 Current Projects
+## 🛠 Technologies & Tools
+
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
+![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![Solidity](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
+![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
+![Git](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+
+## 🚀 Current Project
 
 ### **Rhea AI - Founder & Lead Software Engineer | Remote**  
 *June 2024 - Present*
@@ -27,12 +46,6 @@ I'm a Software Engineer and Computer Science student at Columbia University, wit
 
 **Tech Stack**: OpenAI API, Flask, JavaScript, HTML, CSS, AWS (potential deployment)
 
-### **Learn Cash Flow in 10 Minutes - Full-Stack Developer | Team of 3**  
-
-- **Educated users on financial concepts** through an interactive website with modules, quizzes, and feedback, **enhancing user understanding and engagement**.
-- **Improved learning outcomes** by integrating dynamic quizzes and real-time feedback mechanisms.
-
-**Tech Stack**: Flask, Python, JavaScript, HTML, CSS, MongoDB
 
 ## 💼 Experience
 
@@ -55,15 +68,6 @@ I'm a Software Engineer and Computer Science student at Columbia University, wit
 - **Improved client access to health insurance information** by developing an Android application for a health provider directory.
 - **Boosted application performance** by leveraging React-Redux and efficient callback functions.
 
-
-
-## 🛠 Technical Skills
-
-- **Languages**: C/C++, Python, JavaScript, HTML/CSS, Solidity
-- **Frameworks**: Flask, React, Next.js
-- **Tools**: Git, GitHub, MongoDB, AWS, Postman
-- **Areas of Expertise**: Backend Development, Blockchain, AI, Operating Systems, Web Development
-
 ## 🎓 Education
 
 - **Columbia University**  
@@ -77,6 +81,12 @@ I'm a Software Engineer and Computer Science student at Columbia University, wit
 - **GitHub**: [github.com/cameriemazreku](#)
 
 ## 🌟 Featured Projects
+### **Learn Cash Flow in 10 Minutes - Full-Stack Developer | Team of 3**  
+
+- **Educated users on financial concepts** through an interactive website with modules, quizzes, and feedback, **enhancing user understanding and engagement**.
+- **Improved learning outcomes** by integrating dynamic quizzes and real-time feedback mechanisms.
+
+**Tech Stack**: Flask, Python, JavaScript, HTML, CSS, MongoDB
 
 ### **Custom Operating System - Linux 5.10.158 Modification**
 
