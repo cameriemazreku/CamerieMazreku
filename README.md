@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Camerie Mazreku 👋
+# Hey there 👋,
 
 I'm a Software Engineer and Computer Science student at Columbia University, with a passion for building scalable, innovative solutions that solve real-world problems. I have a passion for tackling challenging tasks, leading projects, and collaborating with talented teams to push the boundaries of what's possible in technology.
 
@@ -44,7 +44,6 @@ I'm a Software Engineer and Computer Science student at Columbia University, wit
 ![Git](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cameriemazreku&theme=dark" />
 
 
 ## 🚀 Current Project
