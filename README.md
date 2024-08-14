@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Camerie Mazreku 👋
 
-I'm a Software Engineer and Computer Science student at Columbia University, with a passion for building scalable, innovative solutions that solve real-world problems. I thrive on tackling challenging tasks, leading projects, and collaborating with talented teams to push the boundaries of what's possible in technology.
+I'm a Software Engineer and Computer Science student at Columbia University, with a passion for building scalable, innovative solutions that solve real-world problems. I have a passion for tackling challenging tasks, leading projects, and collaborating with talented teams to push the boundaries of what's possible in technology.
 
 ## 🚀 Current Projects
 
