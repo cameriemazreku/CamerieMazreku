@@ -30,11 +30,9 @@ I'm a Software Engineer and Computer Science student at Columbia University, wit
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![Linux Kernel Development](https://img.shields.io/badge/Skill-Linux%20Kernel%20Development-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![Unix / Shell Scripting](https://img.shields.io/badge/Scripting-Unix%20%2F%20Shell%20Scripting-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-
 ![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
-
 ![REST API](https://img.shields.io/badge/API-REST-informational?style=flat&logo=rest-api&logoColor=white&color=2bbc8a)
 ![FastAPI](https://img.shields.io/badge/API-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
 ![OpenAI API](https://img.shields.io/badge/API-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a)
