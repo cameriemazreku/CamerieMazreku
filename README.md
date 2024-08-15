@@ -19,7 +19,7 @@ When I’m not coding, I love exploring new technologies, mentoring students, an
 
 ## Experience
 
-### **2024 - Present**  
+### **2023**  
 **Research Assistant**  
 *Columbia University*
 
