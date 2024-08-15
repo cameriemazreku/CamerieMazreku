@@ -1,6 +1,4 @@
 
--->
-
 # Camerie Mazreku
 
 **Software Engineer** | **Computer Science Student** at Columbia University
@@ -25,7 +23,7 @@ When I’m not coding, I love exploring new technologies, mentoring students, an
 **Research Assistant**  
 *Columbia University*
 
-- Optimized Huge Pages in the Linux kernel and analyzed memory compaction.
+- Analyzed Huge Pages and Memory Compaction's effect on Data-intensive Applications in the Linux kernel.
 - Automated database installation processes for enhanced efficiency.
 
 ### **2021 - 2022**  
@@ -45,7 +43,7 @@ When I’m not coding, I love exploring new technologies, mentoring students, an
 
 ## Get in Touch
 
-- **Email**: cameriemazreku@example.com
+- **Email**: cameriemazreku@gmail.com
 - **LinkedIn**: [linkedin.com/in/cameriemazreku](https://linkedin.com/in/cameriemazreku)
 - **GitHub**: [github.com/cameriemazreku](https://github.com/cameriemazreku)
 
