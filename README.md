@@ -5,18 +5,6 @@
 
 I build scalable, innovative solutions that solve real-world problems, with a focus on backend development, and AI.
 
----
-
-## About Me
-
-Back in 2021, I began my journey into software engineering with a strong interest in operating systems and blockchain. Fast forward to today, I’ve had the opportunity to work on various exciting projects, including decentralized applications, AI assistants, and kernel development.
-
-My primary focus these days is enhancing cloud database performance and automating complex systems at Columbia University. I also enjoy working on side projects like Rhea AI, an assistant that helps students build job-relevant projects.
-
-When I’m not coding, I love exploring new technologies, mentoring students, and diving into the latest advancements in AI and machine learning.
-
----
-
 ## Experience
 
 ### **2023**  
