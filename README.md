@@ -14,8 +14,8 @@ I build scalable, innovative solutions that solve real-world problems, with a fo
 - Analyzed Huge Pages and Memory Compaction's effect on Data-intensive Applications in the Linux kernel.
 - Automated database installation processes for enhanced efficiency.
 
-### **2021 - 2022**  
-**Software Engineer Intern**  
+### **2022**  
+**Software Engineer**  
 *The Evac*
 
 - Developed decentralized applications using Next.js, Web3, and Solidity.
