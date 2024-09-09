@@ -33,7 +33,6 @@ I build scalable, innovative solutions that solve real-world problems, with a fo
 
 - **Email**: cameriemazreku@gmail.com
 - **LinkedIn**: [linkedin.com/in/cameriemazreku](https://linkedin.com/in/cameriemazreku)
-- **GitHub**: [github.com/cameriemazreku](https://github.com/cameriemazreku)
 
 ---
 
