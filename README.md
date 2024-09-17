@@ -3,7 +3,6 @@
 
 **Software Engineer** | **Computer Science Student** at Columbia University
 
-I build scalable, innovative solutions that solve real-world problems, with a focus on backend development, and AI.
 
 ## Experience
 
