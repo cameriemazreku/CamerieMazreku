@@ -30,7 +30,6 @@
 
 ## Get in Touch
 
-- **Email**: cameriemazreku@gmail.com
 - **LinkedIn**: [linkedin.com/in/cameriemazreku](https://linkedin.com/in/cameriemazreku)
 
 ---
